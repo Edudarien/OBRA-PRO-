@@ -1,0 +1,22 @@
+OBRAPRO APP — INSTALACIÓN EN ANDROID
+
+Esta carpeta ya está preparada como PWA (aplicación instalable).
+
+IMPORTANTE:
+Un archivo HTML local se abre en Chrome. Para que aparezca como una app independiente,
+la carpeta debe publicarse una vez en una dirección HTTPS (por ejemplo Render, GitHub Pages
+o Netlify).
+
+Después de publicarla:
+1. Abre la dirección de OBRAPRO en Chrome.
+2. Toca los tres puntos (⋮).
+3. Toca "Instalar aplicación" o "Añadir a pantalla principal".
+4. Confirma "Instalar".
+5. Aparecerá el ícono OBRAPRO en tu pantalla de inicio.
+6. Desde ahí abrirá en modo aplicación, sin la barra normal de Chrome.
+
+La app incluye:
+- Cotización editable sobre el mismo lienzo.
+- Cálculos automáticos.
+- Descarga y compartir PDF.
+- Funcionamiento sin conexión después de instalarse.
